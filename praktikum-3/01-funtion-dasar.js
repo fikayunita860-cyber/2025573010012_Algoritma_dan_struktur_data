@@ -7,7 +7,7 @@ sapa();
 
 // --- 2. Function dengan parameter ---
 function sapaNama(nama) {
-    console.log('Halo, ${nama}! Selamat belajar.');
+    console.log('Halo, ${Fika}! Selamat belajar.');
 }
 sapaNama('fika');
 sapaNama('khaira');
